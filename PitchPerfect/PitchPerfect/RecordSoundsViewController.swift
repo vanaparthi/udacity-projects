@@ -4,7 +4,7 @@
 //
 //  Created by Ranjith on 6/10/16.
 //  Copyright © 2016 Ranjith. All rights reserved.
-// Ranjith
+// Ranjith kumar
 
 import UIKit
 import AVFoundation
